@@ -9,3 +9,7 @@ Una API es un conjunto de funciones y procedimientos que permiten a los desarrol
 ## ¿Qué es Flask?
 
 Flask es un microframework para Python que permite crear aplicaciones web rápidamente y con un mínimo número de líneas de código.
+
+## ¿Qué es un microframework?
+
+Un microframework es un framework web que permite crear aplicaciones web de una forma rápida y sencilla, pero que no incluye todas las funcionalidades que sí que incluyen los frameworks web.
