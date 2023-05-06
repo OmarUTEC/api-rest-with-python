@@ -17,3 +17,5 @@
 ## :gear: ¿Qué es un microframework? :gear:
 
 :microscope: Un microframework es un framework web que permite crear aplicaciones web de una forma rápida y sencilla, pero que no incluye todas las funcionalidades que sí que incluyen los frameworks web.
+
+🤖🐍
